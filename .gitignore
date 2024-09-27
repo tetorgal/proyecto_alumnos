@@ -9,6 +9,10 @@
 # production
 # /build
 
+#ssh
+sshgithub
+sshgithub.pub
+
 # misc
 .DS_Store
 .env.local
